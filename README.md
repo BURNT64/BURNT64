@@ -6,5 +6,5 @@ I am a Software Engineering student currently studying at the University of Ches
 - 🌱 I’m currently learning front end development and Database Management
 - 💬 Ask me about Software engineering or hobbies.
 - 📫 How to reach me: Contact me through linkedin or comment on my projects
-- ⚡ Fun fact: I spent two months working on a 2D platformer in unity called Box Game
+- ⚡ Fun fact: I spent two months working on a 2D platformer in unity
 
